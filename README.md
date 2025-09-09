@@ -8,8 +8,10 @@
 
 ### 🚀 About Me
 - 💡 Passionate about **Web Development & Front-End Engineering**  
-- 🎯 Currently learning & building projects with **React + Redux Toolkit + Next.js**  
-- 🏗️ Working on an **E-commerce gaming store** (gift cards, PC games, etc.)  
+- ⚛️ Built projects using **React, Redux Toolkit, and Next.js**  
+- 🖥️ Currently learning **Back-End Development**  
+- 🚀 Goal: Become a professional **Full-Stack Developer**  
+- 🏗️ Worked on an **E-commerce gaming store** (gift cards, PC games, etc.)  
 - 🎓 Graduated from **Faculty of Commerce, Mansoura University**  
 - 🎮 I love **story-driven games** like Star Wars Jedi, Detroit Become Human, and Little Nightmares  
 
